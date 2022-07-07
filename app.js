@@ -25,7 +25,7 @@ app.message(/test|testing/i, async ({ message, say }) => {
         type: 'section',
         text: {
           type: 'mrkdwn',
-          text: `Hey <@${event.user.id}>,\n Welcome to the *She Code Africa Community* !🎉\n She Code Africa is a non-profit organization aimed at celebrating, and empowering women in technology in Africa. With over 15,000 women in this community, and several chapters spread across Africa, our aim is to provide a safe space where women like you can network, learn and grow in your respective tech fields.
+          text: `Hey <@${message.user}>,\n Welcome to the *She Code Africa Community* !🎉\n She Code Africa is a non-profit organization aimed at celebrating, and empowering women in technology in Africa. With over 15,000 women in this community, and several chapters spread across Africa, our aim is to provide a safe space where women like you can network, learn and grow in your respective tech fields.
           `,
         },
       },
