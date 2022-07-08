@@ -39,7 +39,7 @@ app.message(/test|testing/i, async ({ message, say }) => {
                • Make an intro of yourself in the #introductions channel (with format stated on \n
                 \tguideline) so others can meet you  and possibly connect.\n
                • Join any of these technical channels in order to learn and grow with other women in
-                 your field
+                 your field\n
                   \t\t ❇️ <#CSGTHDWE6>\n
                   \t\t ❇️ <#CSWU5TW14>\n
                   \t\t ❇️ <#CSUNEFV29>\n
