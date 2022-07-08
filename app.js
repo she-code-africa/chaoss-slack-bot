@@ -38,17 +38,24 @@ app.message(/test|testing/i, async ({ message, say }) => {
                \tput a face to your name and prove your authenticity in the community. \n
                • Make an intro of yourself in the #introductions channel (with format stated on \n
                 \tguideline) so others can meet you  and possibly connect.\n
-               • Join any of these technical channels in order to learn and grow with other women in
-                 your field\n
+               • Join any of these technical channels in order to learn and grow with other
+                women in your field:
+                          `,
+        },
+      },
+      {
+        type: 'section',
+        text: {
+          type: 'mrkdwn',
+          text: `
                   \t\t ❇️ <#CSGTHDWE6>\n
                   \t\t ❇️ <#CSWU5TW14>\n
                   \t\t ❇️ <#CSUNEFV29>\n
                   \t\t ❇️ <#CSFUFQ1HQ>\n
                   \t\t ❇️ <#CSH8ASTV1>\n
                   \t\t ❇️ <#CSWU6PQKG>\n
-            \n
 
-              Take a minute to go through our community guidelines, *<https://docs.google.com/document/d/1BLlNrokijCqnl5_-C-wUwKkePma-qLw4zwhdzE--VqQ/edit?usp=sharing|here>*, to better understand how to access each learning channel and our rules against spam posts/cross posting/irrelevant posts. Feel free to reach out to the community managers, <#D03961HLBTN>  or <#D03NKPB2BRU> if you have any questions.
+            Take a minute to go through our community guidelines, *<https://docs.google.com/document/d/1BLlNrokijCqnl5_-C-wUwKkePma-qLw4zwhdzE--VqQ/edit?usp=sharing|here>*, to better understand how to access each learning channel and our rules against spam posts/cross posting/irrelevant posts. Feel free to reach out to the community managers, <#D03961HLBTN>  or <#D03NKPB2BRU> if you have any questions.
 
               We are super excited that you've chosen to be a part of our community!
               You're welcome again to the SCA community, and I hope you have an amazing experience.
