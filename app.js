@@ -37,14 +37,18 @@ app.message(/test|testing/i, async ({ message, say }) => {
                • Update your profile with a picture of you and what you do, so as to help others\n
                \tput a face to your name and prove your authenticity in the community. \n
                • Make an intro of yourself in the #introductions channel (with format stated on \n
-                \t guideline) so others can meet you  and possibly connect.\n
-               • Join any of these technical channels in order to learn and grow with other women in\n
+                \tguideline) so others can meet you  and possibly connect.\n
+               • Join any of these technical channels in order to learn and grow with other women in
                  your field
-                  \t\t ❇️ <#C03N8QPL7FZ>\n
-                  \t\t ❇️ <#C03N8QPL7FZ>\n
-                  \t\t ❇️ <#C03N8QPL7FZ>\n
+                  \t\t ❇️ <#CSGTHDWE6>\n
+                  \t\t ❇️ <#CSWU5TW14>\n
+                  \t\t ❇️ <#CSUNEFV29>\n
+                  \t\t ❇️ <#CSFUFQ1HQ>\n
+                  \t\t ❇️ <#CSH8ASTV1>\n
+                  \t\t ❇️ <#CSWU6PQKG>\n
             \n
-            Take a minute to go through our community guidelines, here, to better understand how to access each learning channel and our rules against spam posts/cross posting/irrelevant posts. Feel free to reach out to the community managers, <#D03961HLBTN>  or <@amarachukwu> if you have any questions.
+
+              Take a minute to go through our community guidelines, *<https://docs.google.com/document/d/1BLlNrokijCqnl5_-C-wUwKkePma-qLw4zwhdzE--VqQ/edit?usp=sharing|here>*, to better understand how to access each learning channel and our rules against spam posts/cross posting/irrelevant posts. Feel free to reach out to the community managers, <#D03961HLBTN>  or <#D03NKPB2BRU> if you have any questions.
 
 
 
