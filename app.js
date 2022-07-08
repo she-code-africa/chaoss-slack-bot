@@ -34,9 +34,9 @@ app.message(/test|testing/i, async ({ message, say }) => {
         text: {
           type: 'mrkdwn',
           text: `Here are the things you need to do to fully confirm your membership:\n
-               • Update your profile with a picture of you and what you do, so as to help others put a \tface to your name and prove your authenticity in the community. \n
-               • Make an intro of yourself in the #introductions channel (with format stated on guideline) so others can meet you  and possibly connect.\n
-               • Join any of these technical channels in order to learn and grow with other women in your field
+               • Update your profile with a picture of you and what you do, so as to help others put a \t face to your name and prove your authenticity in the community. \n
+               • Make an intro of yourself in the #introductions channel (with format stated on \t guideline) so others can meet you  and possibly connect.\n
+               • Join any of these technical channels in order to learn and grow with other women in \t your field
                   \t\t ❇️ <#C03N8QPL7FZ>\n
                   \t\t ❇️ <#C03N8QPL7FZ>\n
                   \t\t ❇️ <#C03N8QPL7FZ>\n
