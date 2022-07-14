@@ -29,13 +29,6 @@ async function frontendChannel(message, client) {
             text: " Do not hesitate to drop your frontend related questions on the channel and someone would definitely assist. Remember to also network with other members of the channel as we're all here to learn. ",
           },
         },
-        {
-          type: 'section',
-          text: {
-            type: 'mrkdwn',
-            text: `If you're new to frontend development...`,
-          },
-        },
       ],
 
       text: `Welcome to the Frontend Channel <@${message.user}>! 🎉.`,
