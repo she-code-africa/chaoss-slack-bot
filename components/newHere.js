@@ -18,7 +18,7 @@ async function newMember(message, client) {
             type: 'section',
             text: {
               type: 'mrkdwn',
-              text: ` Welcome to She Code Africa Community. Please go ahead and make an introduction on the<#C03CSUSNDNJ> \n Clueless on where to start? Do check out our community guidelines. Our Community Managers <#D03961HLBTN> and <#D03NKPB2BRU> are only a DM away If you have any questions.`,
+              text: ` Welcome to She Code Africa Community. Please go ahead and make an introduction on the<#C03CSUSNDNJ> \n Clueless on where to start? Do check out our *<https://docs.google.com/document/d/1BLlNrokijCqnl5_-C-wUwKkePma-qLw4zwhdzE--VqQ/edit?usp=sharing|community guidelines>*. Our Community Managers @Omotola and @Amarachukwu are only a DM away If you have any questions.`,
             },
           },
         ],

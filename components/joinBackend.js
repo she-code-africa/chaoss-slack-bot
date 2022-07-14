@@ -33,7 +33,7 @@ async function backendChannel(message, client) {
           type: 'section',
           text: {
             type: 'mrkdwn',
-            text: ` In case you need more clarification, feel free to reach out to the channel lead <#D03NY6P3J91> or any of the channel co-lead <#D03PN1DB7PA> and <#D03PN1DMBB2>`,
+            text: ` In case you need more clarification, feel free to reach out to the channel lead  *@Olanesoft* or any of the channel co-lead *@fiyin* and *@ifenna*`,
           },
         },
       ],

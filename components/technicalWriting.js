@@ -29,13 +29,13 @@ async function technicalWritingChannel(message, client) {
             text: ` If you're new to technical writing, we have a study guide that you can use to learn at your own pace.`,
           },
         },
-        {
-          type: 'section',
-          text: {
-            type: 'mrkdwn',
-            text: ` In case you need more clarification, feel free to reach out to the channel lead...`,
-          },
-        },
+        // {
+        //   type: 'section',
+        //   text: {
+        //     type: 'mrkdwn',
+        //     text: ` In case you need more clarification, feel free to reach out to the channel lead...`,
+        //   },
+        // },
       ],
 
       text: `Welcome to the Technical writing Channel <@${message.user}>! 🎉.`,

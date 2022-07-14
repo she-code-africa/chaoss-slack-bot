@@ -33,7 +33,7 @@ async function productProgram(message, client) {
           type: 'section',
           text: {
             type: 'mrkdwn',
-            text: `If you're new to Product Management, we have a study guide that you can use to learn at your own pace. \n <https://mixed-mantis-ad2.notion.site/SCA-PRODUCT-MANAGEMENT-2022-01b9aec3ffc54f3b9fb442391f50ea19> \nIn case you need more clarification, feel free to reach out to the channel lead <@Betty Bada>. Here's to becoming awesome PMs 🎉🎉
+            text: `If you're new to Product Management, we have a study guide that you can use to learn at your own pace. \n <https://mixed-mantis-ad2.notion.site/SCA-PRODUCT-MANAGEMENT-2022-01b9aec3ffc54f3b9fb442391f50ea19> \nIn case you need more clarification, feel free to reach out to the channel lead *<@Betty Bada>*. Here's to becoming awesome PMs 🎉🎉
             `,
           },
         },

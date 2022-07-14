@@ -33,7 +33,7 @@ async function designChannel(message, client) {
           type: 'section',
           text: {
             type: 'mrkdwn',
-            text: ` In case you need more clarification, feel free to reach out to the channel lead <#D03NY8AFL74>`,
+            text: ` In case you need more clarification, feel free to reach out to the channel lead *@Ademorin Ajepe*`,
           },
         },
       ],

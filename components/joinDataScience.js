@@ -33,7 +33,7 @@ async function dataScienceChannel(message, client) {
           type: 'section',
           text: {
             type: 'mrkdwn',
-            text: `In case you need more clarification, feel free to reach out to the channel lead <#D03NHKT8AAK> or the channel co-lead <#D03NVA7USAH>`,
+            text: `In case you need more clarification, feel free to reach out to the channel lead *@BukolaBusiga*  or the channel co-lead *@hemhemoh*`,
           },
         },
       ],
