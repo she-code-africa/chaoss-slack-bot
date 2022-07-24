@@ -22,9 +22,9 @@ const app = new App({
 
 // ********************************NEWBIES*********/
 
-app.message(/hello|hey|hi/i, async ({ message, say }) => {
-  await say(`Hello there <@${message.user}>!`);
-});
+// app.message(/hello|hey|hi/i, async ({ message, say }) => {
+//   await say(`Hello there <@${message.user}>!`);
+// });
 
 // ******** Bot responds to a member in DM when the member types  a text that contains new here*******/
 app.message(/new(?=\s+here)/i, async ({ message, client }) => {
