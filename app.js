@@ -94,7 +94,7 @@ app.message(/test|testing/i, async ({ message, say }) => {
             Take a minute to go through our community guidelines, *<https://docs.google.com/document/d/1BLlNrokijCqnl5_-C-wUwKkePma-qLw4zwhdzE--VqQ/edit?usp=sharing|here>*, to better understand
             how to access each learning channel and our rules against spam posts/
             cross posting/ irrelevant posts. Feel free to reach out to the community managers,
-            @Omotola or @Amarachukwu if you have any questions.
+            #Omotola or @Amarachukwu if you have any questions.
 
             We are super excited that you've chosen to be a part of our community!
             You're welcome again to the SCA community, and I hope you have an amazing
