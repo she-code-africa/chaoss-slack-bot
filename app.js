@@ -77,12 +77,12 @@ app.message(/test|testing/i, async ({ message, say }) => {
                 \tguideline) so others can meet you  and possibly connect.\n
                • Join any of these technical channels in order to learn and grow with other
                  women in your field:
-                        \t\t ❇️ <#CSGTHDWE6>\n
-                        \t\t ❇️ <#CSWU5TW14>\n
-                        \t\t ❇️ <#CSUNEFV29>\n
-                        \t\t ❇️ <#CSFUFQ1HQ>\n
-                        \t\t ❇️ <#CSH8ASTV1>\n
-                        \t\t ❇️ <#CSWU6PQKG>\n
+                            \t\t ❇️ #product-project-program-mgt\n
+                            \t\t ❇️ #backend-development\n
+                            \t\t ❇️ #datascience-ml-ai\n
+                            \t\t ❇️ #design-lab\n
+                            \t\t ❇️ #frontend-development\n
+                            \t\t ❇️ #mobile-development\n
                           `,
         },
       },
