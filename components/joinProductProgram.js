@@ -5,7 +5,7 @@ const testChannel = 'CSGTHDWE6';
 async function productProgram(message, client) {
   try {
     return await client.chat.postMessage({
-      channel: testChannel,
+      channel: message.user,
 
       blocks: [
         {

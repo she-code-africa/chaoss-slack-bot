@@ -5,7 +5,7 @@ const channelId = 'CSFUFQ1HQ';
 async function designChannel(message, client) {
   try {
     return await client.chat.postMessage({
-      channel: channelId,
+      channel: message.user,
 
       blocks: [
         {

@@ -5,7 +5,7 @@ const channelId = 'CSWU5TW14';
 async function backendChannel(message, client) {
   try {
     return await client.chat.postMessage({
-      channel: channelId,
+      channel: message.user,
 
       blocks: [
         {

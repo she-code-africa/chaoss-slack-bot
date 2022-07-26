@@ -5,7 +5,7 @@ const channelId = 'CSUNEFV29';
 async function dataScienceChannel(message, client) {
   try {
     return await client.chat.postMessage({
-      channel: channelId,
+      channel: message.user,
 
       blocks: [
         {

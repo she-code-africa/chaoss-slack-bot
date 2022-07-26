@@ -5,7 +5,7 @@ const channelId = 'C01G756UCF6';
 async function technicalWritingChannel(message, client) {
   try {
     return await client.chat.postMessage({
-      channel: channelId,
+      channel: message.user,
 
       blocks: [
         {

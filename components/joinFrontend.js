@@ -5,7 +5,7 @@ const testChannel = 'CSH8ASTV1';
 async function frontendChannel(message, client) {
   try {
     return await client.chat.postMessage({
-      channel: testChannel,
+      channel: message.user,
 
       blocks: [
         {
